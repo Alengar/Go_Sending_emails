@@ -3,8 +3,8 @@ package main
 import (
 	"errors"
 	"fmt"
-	"greenlight.dinara.net/internal/data"
-	"greenlight.dinara.net/internal/validator"
+	"greenlight.nurym.net/internal/data"
+	"greenlight.nurym.net/internal/validator"
 	"net/http"
 )
 
