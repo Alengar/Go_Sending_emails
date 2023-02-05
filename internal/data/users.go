@@ -6,7 +6,7 @@ import (
 	"errors"
 	"github.com/jackc/pgx/v5/pgxpool"
 	"golang.org/x/crypto/bcrypt"
-	"greenlight.dinara.net/internal/validator"
+	"greenlight.nurym.net/internal/validator"
 	"time"
 )
 
