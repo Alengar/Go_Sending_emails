@@ -1,7 +1,7 @@
 package data
 
 import (
-	"greenlight.dinara.net/internal/validator"
+	"greenlight.nurym.net/internal/validator"
 	"math"
 	"strings"
 )
