@@ -5,14 +5,13 @@ import (
 	"flag"
 	"fmt"
 	"github.com/jackc/pgx/v5/pgxpool"
-	"greenlight.dinara.net/internal/data"
-	"greenlight.dinara.net/internal/jsonlog"
-	"greenlight.dinara.net/internal/mailer"
+	"greenlight.nurym.net/internal/data"
+	"greenlight.nurym.net/internal/jsonlog"
+	"greenlight.nurym.net/internal/mailer"
 	"os"
 	"time"
 )
 
-// dinara
 const version = "1.0.0"
 
 type config struct {
