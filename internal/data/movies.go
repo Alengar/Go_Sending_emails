@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"github.com/jackc/pgx/v4"
 	"github.com/jackc/pgx/v5/pgxpool"
-	"greenlight.dinara.net/internal/validator"
+	"greenlight.nurym.net/internal/validator"
 	"net/http"
 	"time"
 )
